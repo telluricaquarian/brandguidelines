@@ -10,8 +10,8 @@ const _geistMono = V0_Font_Geist_Mono({ subsets: ['latin'], weight: ["100","200"
 
 const _inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
-  title: "Creadefy Brand Guidelines",
-  description: "Digital achievements made beautiful. A comprehensive guide to the Creadefy visual identity.",
+  title: "SD with Kenneth — Brand Guidelines",
+  description: "Visual identity, typography, tone, and interface language for the SD with Kenneth brand system.",
   generator: "v0.app",
   icons: {
     icon: [
